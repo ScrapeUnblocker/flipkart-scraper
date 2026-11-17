@@ -1,7 +1,7 @@
 # flipkart-scraper
 
 [![CI](https://github.com/ScrapeUnblocker/flipkart-scraper/actions/workflows/ci.yml/badge.svg)](https://github.com/ScrapeUnblocker/flipkart-scraper/actions/workflows/ci.yml)
-[![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 **Scrape Flipkart search results into clean, typed JSON or CSV — no HTML selectors, no blocks.**

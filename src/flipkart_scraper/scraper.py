@@ -23,9 +23,9 @@ import csv
 import json
 import re
 import time
-from collections.abc import Iterable, Sequence
+from collections.abc import Callable, Iterable, Sequence
 from dataclasses import asdict, dataclass
-from typing import Any, Callable
+from typing import Any
 from urllib.parse import parse_qs, quote_plus, urlparse
 
 FLIPKART_SEARCH_URL = "https://www.flipkart.com/search?q={query}"
